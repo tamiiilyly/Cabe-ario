@@ -64,7 +64,7 @@ ul li{
 }
 
 a{
-    color: rgb(7, 12, 9);
+    color: rgb(232, 240, 235);
     text-decoration: none;
 }
 
@@ -98,7 +98,7 @@ a{
         text-align: start;
     }
     .lista-item:hover{
-        background-color: rgb(220, 228, 223);
+        background-color: rgb(7, 12, 9);
     }
 }
 footer{
