@@ -98,10 +98,10 @@ a{
         text-align: start;
     }
     .lista-item:hover{
-        background-color: darkkhaki;
+        background-color: rgb(71, 68, 15);
     }
 }
 footer{
-    background-color: darkolivegreen;
+    background-color: rgb(148, 165, 119);
     text-align: left;
 }
