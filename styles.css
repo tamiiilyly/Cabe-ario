@@ -50,8 +50,8 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: rgb(17, 17, 16);
-    color: rgb(245, 235, 235);
+    background-color: rgb(7, 12, 9);
+    color: #e4f0dd;
     position: relative;
 }
 
@@ -60,7 +60,7 @@ ul li{
 }
 
 .texto{
-    color: #0f160b;
+    color: #e4f0dd;
 }
 
 a{
