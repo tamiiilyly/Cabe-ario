@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: rgb(83, 91, 202);
+    background-color: rgb(13, 13, 17);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -16,7 +16,7 @@ section {
 
     align-items:flex-start;
     background-color: rgb(14, 13, 13);
-    color: rgb(130, 149, 255);
+    color: rgb(244, 245, 252);
     margin: 10px 0;
     padding: 10px 20px;
 }
