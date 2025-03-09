@@ -50,7 +50,7 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: rgb(7, 12, 9);
+    background-color: rgb(229, 238, 232);
     color: #e4f0dd;
     position: relative;
 }
@@ -64,7 +64,7 @@ ul li{
 }
 
 a{
-    color: rgb(232, 240, 235);
+    color: rgb(7, 12, 9);
     text-decoration: none;
 }
 
