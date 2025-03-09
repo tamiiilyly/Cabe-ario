@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: rgb(13, 13, 17);
+    background-color: rgb(246, 246, 253);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -15,7 +15,7 @@ header {
 section {
 
     align-items:flex-start;
-    background-color: rgb(14, 13, 13);
+    background-color: rgb(226, 216, 216);
     color: rgb(244, 245, 252);
     margin: 10px 0;
     padding: 10px 20px;
@@ -50,7 +50,7 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: rgb(229, 238, 232);
+    background-color: rgb(7, 12, 9);
     color: #e4f0dd;
     position: relative;
 }
