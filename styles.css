@@ -106,7 +106,7 @@ footer{
     text-align: left;
 }
 
-ul nav{
+nav mt-5{
     display: flex;
     flex-direction: row;
     background-color: black;
