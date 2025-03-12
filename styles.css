@@ -106,9 +106,3 @@ footer{
     text-align: left;
 }
 
-ul info{
-    display: flex;
-    flex-direction: row;
-    background-color: black;
-}
-
