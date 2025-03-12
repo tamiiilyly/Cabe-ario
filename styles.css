@@ -105,3 +105,9 @@ footer{
     background-color: #e4f0dd;
     text-align: left;
 }
+
+ul nav{
+    display: flex;
+    flex-direction: row;
+}
+
