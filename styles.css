@@ -35,14 +35,14 @@ div {
 .img-agricultura{
     width: 20%;
 }
-.img-Soja{
+.img-fisica{
     width: 20%;
 }
-.img-milho{
-    width: 20%;
+.img-matemtica{
+    width: 10%;
 }
 
-.img-cana-de-açúcar{
+.img-quimica{
     width: 20%;
 }
 body{
@@ -115,4 +115,5 @@ footer{
     background-color: #e4f0dd;
     text-align: left;
 }
+
 
