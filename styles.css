@@ -29,22 +29,6 @@ section {
     line-height: 150%;
 }
 
-div {
-    padding: 10px;
-}
-.img-agricultura{
-    width: 20%;
-}
-.img-fisica{
-    width: 20%;
-}
-.img-matemtica{
-    width: 10px;
-}
-
-.img-quimica{
-    width: 20%;
-}
 body{
     text-align: center;
     align-items: center;
