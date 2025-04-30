@@ -103,7 +103,7 @@ a{
     color: black;
     border: 0px solid;
     border-radius: 15%;
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .notas {
