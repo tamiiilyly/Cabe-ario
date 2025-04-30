@@ -107,6 +107,10 @@ a{
     border-radius: 15%;
     font-weight: bold;
     font-size: 18px;
+    /* scroll-behavior: smooth; */
+}
+
+.html {
     scroll-behavior: smooth;
 }
 
