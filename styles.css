@@ -96,6 +96,24 @@ a{
     }
 }
 
+.btn-notas {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #0077cc;
+    text-decoration: none;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.btn-notas:hover {
+    background-color: #ffffff;
+    color: #005fa3;
+}
+
 .notas {
     .notas h2 {
         margin-bottom: 15px;
