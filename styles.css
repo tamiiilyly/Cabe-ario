@@ -107,7 +107,7 @@ a{
     font-weight: bold;
 }
 
-#notas {
+.notas {
     .notas h2 {
         margin-bottom: 15px;
     }
