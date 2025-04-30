@@ -55,6 +55,7 @@ ul li{
     color: black;
     background-color: #65a9d1;
     border-radius: 15%;
+    font-size: 14px;
 }
 
 a{
@@ -103,7 +104,8 @@ a{
     color: black;
     border: 0px solid;
     border-radius: 15%;
-    /* font-weight: bold; */
+    font-weight: bold;
+    font-size: 14px;
 }
 
 .notas {
