@@ -145,6 +145,7 @@ a{
 footer{
     background-color: #e4f0dd;
     text-align: left;
+    font-family: Arial, sans-serif;
 
     .footer-section {
         flex: 1 1 300px;
