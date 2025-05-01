@@ -145,4 +145,23 @@ a{
 footer{
     background-color: #e4f0dd;
     text-align: left;
+
+    .footer-section {
+        flex: 1 1 300px;
+        padding: 20px;
+      }
+      
+      .footer-section h3 {
+        border-bottom: 1px solid #fff;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+      }
+
+      .footer-bottom {
+        text-align: center;
+        padding-top: 20px;
+        border-top: 1px solid #bdc3c7;
+        font-size: 0.9em;
+      }
+      
 }
