@@ -194,6 +194,16 @@ footer{
     }
     
 }
+    .btn-lab {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #65a9d1;
+    color: black;
+    border: 0px solid;
+    border-radius: 15%;
+    font-weight: bold;
+    font-size: 18px;
+}
 
 
 }
