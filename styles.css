@@ -19,7 +19,7 @@ header {
 section {
 
     align-items:flex-start;
-    background-color:#e4f0dd;
+    background-color:#d7bda4;
     color: black;
     margin: 10px 0;
     padding: 10px 20px;
@@ -42,7 +42,7 @@ header{
     align-items: center;
     padding: 12px;
     justify-content: space-around;
-    background-color: #e4f0dd;
+    background-color: #d7bda4;
     color: black;
     position: relative;
 }
@@ -94,7 +94,7 @@ a{
         text-align: start;
     }
     .lista-item:hover{
-        background-color:#e4f0dd;
+        background-color:#d7bda4
     }
 }
 
@@ -142,7 +142,7 @@ a{
 }
 
 footer{
-    background-color: #e4f0dd;
+    background-color: #d7bda4;
     text-align: left;
     font-family: Arial, sans-serif;
 
